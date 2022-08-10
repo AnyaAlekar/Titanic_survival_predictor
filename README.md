@@ -5,7 +5,7 @@ This repository only includes the data preprocessing step of creating a model. <
 #### The input data:
 ![Input](images/input.png)
 
-#### The output data after preprocessing:
+#### The data after preprocessing:
 ![Output](images/output.png)
 
 The yellow regions in the plots indicate missing data
